@@ -1,8 +1,16 @@
 # Instructions for Public Comment (instructions appropriated from: Circular A-130 https://a130.cio.gov/)
 #### You may provide feedback in three ways:
+
 If you are  familiar with GitHub and have an account (or wish to create one) follow Steps 1 or 2
+
 If you are **not** familiar with GitHub, please follow Step 3
-1.  Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/hskettler/cultural-assessment/issues) in existing issues, or start a new conversation by opening a new issue2.  Direct changes and line edits to the content may be submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request) by clicking "Edit this page". You do not need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request/). Open pull requests for the proposed guidance can be found [here](https://github.com/hskettler/cultural-assessment/pulls).3.  Fill out the [Cultural Assessment Comment / Suggestion Form](https://gitreports.com/issue/cultural-assessment/doc-comments) to submit your suggestions or proposed revisions without a GitHub account. Please note that all comments received will be posted publicly on this site.
+
+
+1.  Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/hskettler/cultural-assessment/issues) in existing issues, or start a new conversation by opening a new issue
+
+2.  Direct changes and line edits to the content may be submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request) by clicking "Edit this page". You do not need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request/). Open pull requests for the proposed guidance can be found [here](https://github.com/hskettler/cultural-assessment/pulls).
+
+3.  Fill out the [Cultural Assessment Comment / Suggestion Form](https://gitreports.com/issue/cultural-assessment/doc-comments) to submit your suggestions or proposed revisions without a GitHub account. Please note that all comments received will be posted publicly on this site.
 
 
 # Cultural Assessment Working Group (DLF)
