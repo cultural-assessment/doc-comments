@@ -2,6 +2,20 @@
 <h2>DLF Cultural Assessment Working Group<br/>
 Selection Task Force<br/>
 May/June 2017 DRAFT</h2>
+
+<h2>Table of Contents</h2>
+<ul>
+  <li><a href="#resource-pools">Resource Pools</a></li>
+  <li><a href="#awareness-of-resources">Awareness of Resources</a></li>
+  <li><a href="#identification-of-resourceneed">Identification of Resources/Need</a></li>
+  <li><a href="#proposing-of-possible-resource-with-decision-makers">Proposing to Decision-makers</a></li>
+  <li><a href="#test-fit-against-priorities-and-policies">"Test fit" against policies/priorities</a></li>
+  <li><a href="#decision-making">Decision Making</a></li>
+  <li><a href="#acting-on-decision">Acting on Decisions</a></li>
+  <li><a href="#sharingcommunicating-decisions">Sharing Decision</a></li>
+  <li><a href="#documenting-selection-decisions">Documenting Selection Decisions</a></li>
+  <li><a href="#text-analysis-of-dlf-ca-selection-workflow-submissions--a-summary">Summery of Survey Results</a></li>
+</ul>
  
 <p>This document aims to define parts of a digital collection selection workflow for public cultural heritage and academic institutions, in alignment with the mission of the DLF Cultural Assessment working group. This group was founded in 2016 to: investigate and surface underlying cultural biases and assumptions in digital library data and practices; develop more nuanced rubrics for institutional measurement and analysis; help our community better understand the social structures that both influence our work and result from it; and foster more inclusive practices within DLF member organizations.</p>
 
@@ -13,8 +27,7 @@ May/June 2017 DRAFT</h2>
 <p>Examples: Vendor catalogs, antiquarian websites, artist’s websites, auction house sites, institutional records, publisher catalogs/websites, individuals, community groups, donors, art works, research objects and outputs, individual/group event ephemera</p>
 
 <h4>Questions to ask:</h4>
-<ul>
-  <li>Where are the resources from which to choose?</li>
+<ul>  <li>Where are the resources from which to choose?</li>
   <li>Is there collaboration with partner institutions to make resources available? Does the institution have the knowledge, or capacity to develop, skill to accomplish the project alone and/or with a partner?*</li>
   <li>Who owns the rights to these resources? Are they in the public domain?</li>
     <ul>
@@ -34,8 +47,7 @@ May/June 2017 DRAFT</h2>
     <li>What does ‘credible’ or ‘authoritative’ sources mean to the institution?</li>
     </ul>
   <li>If the resources are not readily available, what will it cost to get them? Personnel time? Vendor purchasing? Community stipend?</li>
-  <li>Do the materials have established value? Are you anticipating they will become valuable in the future? (Value defined broadly, including but not limited to diverse perspectives, curricular value, monetary value, community-defined value)</li>
-  <li>Does the organization collect particular types of content and does it have a preservation commitment to particular content?</li>
+  <li>Do the materials have established value? Are you anticipating they will become valuable in the future? (Value defined broadly, including but not limited to diverse perspectives, curricular value, monetary value, community-defined value)</li>  <li>Does the organization collect particular types of content and does it have a preservation commitment to particular content?</li>
   <li>What is the current state of “Fair Use” and “Fair Dealing”?</li>
   <li>In what language is the resource available? Is this an obstacle?</li>
 </ul>
