@@ -7,7 +7,7 @@ May/June 2017 DRAFT</h2>
 
 <p>This DRAFT Selection Workflow Framework document has a twofold purpose: to inform the Internet Archive’s book selection process for its proposed 100&Change MacArthur Foundation project (as part of a DLF/IA partnership on “Inclusive Curation”) and to serve as a resource on best practices for Digital Library Federation member institutions and the broader digital library community. </p>
 
-<h4>Want to add or change this document?</h4><p>We welcome your thoughts. See our <a href="https://github.com/cultural-assessment/doc-comments/blob/master/README.md">Insturctions for Public Commenting</a> for details on how to request changes to this or other docuemnts.</p>
+<h4>Want to add or change this document?</h4><p>We welcome your thoughts. See our <a href="https://github.com/cultural-assessment/doc-comments/blob/master/README.md">Instructions for Public Commenting</a> for details on how to request changes to this or other docuemnts.</p>
  
 <h3>Resource Pools</h3>
 <p>In order to select materials to digitize, acquire, or license, there must be pools of resources from which to choose. The availability of these pools is required and will affect the selection decision-making process. This includes the selection of single resource to incorporate as part of an established collection. Knowing where to look for resources and understanding the resources available for digitization or incorporation is a learned skill and is subjective. Often, there is a differentiation here between “born-digital” and “materials to digitize”.</p>
@@ -263,8 +263,7 @@ May/June 2017 DRAFT</h2>
 
 <h3>Questions that arose and Observations during analysis:</h3>
 <p>Most people answered the questionnaire as if they were digitizing collections -- selection has already happened?<p>
-<p>No Museums responded - all initial respondents are libraries (might be because of our heavy focus on libraries/archives in the call out to specified listservs with which the group participants are connected).</p>
-<p>There’s a lot of format and preservation criteria, and not about whether one thing is more important than others or why it’s necessary to select.</p>
+<p>No Museums responded - all initial respondents are libraries (might be because of our heavy focus on libraries/archives in the call out to specified listservs with which the group participants are connected).</p><p>There’s a lot of format and preservation criteria, and not about whether one thing is more important than others or why it’s necessary to select.</p>
 <p>Which groups have documentation - collection policies are governing decision making - people. Who decide what gets digitized/selected?</p>
 <p>How does the selection for digitization relate to the institutional repository currently, and in the future?  </p>
 <p>Were we asking the right questions?</p>
@@ -283,6 +282,7 @@ May/June 2017 DRAFT</h2>
 <blockquote><p>“A Unit Digitization Plan is mandated for all collecting units and is updated every three years (minimum). It includes the scope of what we intend to digitize, our priorities, the policies and standards we follow, and estimates of our current and future capacity for digitization.” </p></blockquote>
 <blockquote><p>“Several librarians, including the collection development coordinator, digital projects coordinator, and liaisons, keep a lookout for documents...”</p></blockquote>
 <blockquote><p>“Many of our digital collections currently are a response to external pressures rather than being initiated from within the Libraries at this point, largely due to funding constraints.”</p></blockquote>
+
 <blockquote><p><em>Outlier:</em> “We are now on a yearly cycle where we interview each curator, gather their top wishes for digital projects, and match that to our capacity for the year...This capacity is 60% of our available time. We leave 40% of our time for unscheduled projects throughout the year. We use broad categories of Metdata [sic], Digitization, and Project Management, to assess our capacity.“</p></blockquote>
 
 <h4>Are decisions based on published/public policies?</h4>
@@ -292,12 +292,13 @@ May/June 2017 DRAFT</h2>
 <blockquote><p>“Criteria on which projects are judged usually focus heavily on condition of the material, copyright concerns, and quality of available metadata. We don't have a digital archivist and very rarely work with born-digital materials.”</p></blockquote>
 <blockquote><p>“Criteria for selection are based on our Collection Development policy.” These are rarely made public.</p></blockquote>
 <blockquote><p>“Selection process to ensure collections align with campus teaching, learning and research needs and our ability to provide long-term access and support."</p></blockquote>
+
 <blockquote><p>“Relationship to Other Digital Collections: it is important to contribute to “critical mass” of digital collections in the subject whenever possible. By complementing existing online collections, the value of the collection will enhance the subject area and the user experience.”</p></blockquote>
  
 <h4>Are decisions based on required resources (space, staff, format)?</h4>
- 
+
 <p><strong>Summary:</strong> A majority of institutions prioritize decisions based on staff or space capacity, not on collecting priority. Most consider the institution’s collection strengths and importance of the materials prior to accepting new materials.</p>
- 
+
 <blockquote><p>“We use broad categories of Metadata, Digitization, and Project Management, to assess our capacity.”  </p></blockquote>
 <blockquote><p>“Criteria for digitization include: a. the perceived importance of the materials: we try to digitize those materials that we perceive to have broad appeal; or where we think providing access would bring hidden collections to light; or where there is a need for access expressed through an academic course at our college. b. the state of the materials: if they are in poor condition or if they are on obsolete media, we may prioritize these materials for digitization. c. our ability to provide access to the materials: some of our materials are brittle and we prefer to provide access through surrogates; some of our materials are on obsolete media or we do not have regular access to playback equipment, so we prefer to provide access through digital surrogates. d. our ability to digitize materials in-house: given our funding and staffing, we have prioritized the do-it- yourself digitization projects over ones requiring external equipment and expertise.”</p></blockquote>
 <blockquote><p>“Housing/space issues: can we in good conscience commit to preserving this collection?”</p></blockquote>
@@ -326,4 +327,8 @@ May/June 2017 DRAFT</h2>
 <blockquote><p>“We have also made it a policy to scan fragile photographic content, such as glass plate negatives, since we prefer researchers not handle the originals.”</p></blockquote>
 <blockquote><p>“While we have a published Collection Development policy, we do not have written guidelines for how we select and accession collections.”</p></blockquote>
  
-<p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.  </p>
+<p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.  </p> 
+
+
+<h2><a href="https://script.google.com/macros/s/AKfycbzb46dewQa68M4AL4BQDmbPISOoNyic60AXDzyFbgexXGgYaKg/exec">Click here to take the survey</a></h2>
+<p>Add your perspective to this ongoing study. The more respondants, the better and more useful our toolkit will be! Thank you in advance.</p>
