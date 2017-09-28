@@ -330,5 +330,83 @@ May/June 2017 DRAFT</h2>
 <p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.  </p> 
 
 
+<h2><a href="ckquote> 
+<h4>Are decisions based on required resources (space, staff, format)?</h4>
+
+<p><strong>Summary:</strong> A majority of institutions prioritize decisions based on staff or space capacity, not on collecting priority. Most consider the institution’s collection strengths and importance of the materials prior to accepting new materials.</p>
+
+<blockquote><p>“We use broad categories of Metadata, Digitization, and Project Management, to assess our capacity.”  </p></blockquote>
+<blockquote><p>“Criteria for digitization include: a. the perceived importance of the materials: we try to digitize those materials that we perceive to have broad appeal; or where we think providing access would bring hidden collections to light; or where there is a need for access expressed through an academic course at our college. b. the state of the materials: if they are in poor condition or if they are on obsolete media, we may prioritize these materials for digitization. c. our ability to provide access to the materials: some of our materials are brittle and we prefer to provide access through surrogates; some of our materials are on obsolete media or we do not have regular access to playback equipment, so we prefer to provide access through digital surrogates. d. our ability to digitize materials in-house: given our funding and staffing, we have prioritized the do-it- yourself digitization projects over ones requiring external equipment and expertise.”</p></blockquote>
+<blockquote><p>“Housing/space issues: can we in good conscience commit to preserving this collection?”</p></blockquote>
+<blockquote><p>“Access issues: do we have the equipment to digitize or make available the media being donated? If not, is there potential funding to outsource digitization?”</p></blockquote>
+<blockquote><p>“No matter how important the collection, it must be organized and described before it is ready for distribution: organized, processed, metadata assigned, finding aid created.”</p></blockquote>
+<blockquote><p>“Do the Libraries have the knowledge, or the capacity to develop, skills to accomplish the project alone and/or with a partner? Ample staff to bring the project to fruition or the ability to hire such staff.“</p></blockquote>
+<blockquote><p>“Broad priorities are roughly based on format, which in turn is based on existing collections strengths and in-house digitization technical capacity.”</p></blockquote>
+<blockquote><p>“Items/collections that come with their own (usually external grant) funding are prioritized over those that don’t.” </p></blockquote>
+<blockquote><p>“The criteria for choosing to proceed with including or digitizing a requested item/collection have to do with our infrastructure and capacity to do so rather than a philosophical reason to preserve or promote access to the materials.”</p></blockquote>
+ 
+<h4>Does an individual or committee make the final decision?</h4>
+ 
+<p><strong>Summary:</strong> A majority of respondents indicate that selection and digitization decisions are made by individuals, not by appointed committees. </p>
+ 
+<blockquote><p>“The matching of projects to capacity happens by the Director of all the curators and the AUL for Collections.”</p></blockquote>
+<blockquote><p>“A member or members of Special Collections and Archives (SCA) review the request. Typically whichever staff member is contacted first will bring in the other two full-time staff of SCA to discuss, but sometimes a single staff member will determine suitability of collection for accessioning.”</p></blockquote>
+<blockquote><p>“We moved from a committee who would review proposals from curators and assess based on certain criteria (preservation, scholarship, etc.) to being proactive.”</p></blockquote>
+<blockquote><p>“Requests are routed to the Assistant Deans for Distinctive Collections and Digital Initiatives & Discovery Services to determine feasibility.”</p></blockquote>
+ 
+<h4>Is the selection process based on any specific priorities?</h4>
+ 
+<p><strong>Summary:</strong> Selections are prioritized by appraised value, fragility or rarity of materials, and materials that are already part of the institution’s collections, and most institutions are not actively seeking new materials. Many collection agendas are dictated by Collection Development Policies that reflect physical collections and do not stand on their own as born-digital or digital only collection policies - the decision process for selection is either not documented more granularly than at the institution level, or we need to specify more granular selection practices.</p>
+ 
+<blockquote><p>“Selected content in collections we own that are in the public domain because of their uniqueness – won’t find them on Google, Hathi Trust, or anywhere else.”</p></blockquote>
+<blockquote><p>“Appraisal value – we have made it a policy to digitize all or portions of collections which have been appraised. Part of this is for security purposes and others is for access to the content itself.”</p></blockquote>
+<blockquote><p>“We have also made it a policy to scan fragile photographic content, such as glass plate negatives, since we prefer researchers not handle the originals.”</p></blockquote>
+<blockquote><p>“While we have a published Collection Development policy, we do not have written guidelines for how we select and accession collections.”</p></blockquote>
+ 
+<p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.  </p> 
+
+
+<h2><a href="ckquote> 
+<h4>Are decisions based on required resources (space, staff, format)?</h4>
+
+<p><strong>Summary:</strong> A majority of institutions prioritize decisions based on staff or space capacity, not on collecting priority. Most consider the institution’s collection strengths and importance of the materials prior to accepting new materials.</p>
+
+<blockquote><p>“We use broad categories of Metadata, Digitization, and Project Management, to assess our capacity.”  </p></blockquote>
+<blockquote><p>“Criteria for digitization include: a. the perceived importance of the materials: we try to digitize those materials that we perceive to have broad appeal; or where we think providing access would bring hidden collections to light; or where there is a need for access expressed through an academic course at our college. b. the state of the materials: if they are in poor condition or if they are on obsolete media, we may prioritize these materials for digitization. c. our ability to provide access to the materials: some of our materials are brittle and we prefer to provide access through surrogates; some of our materials are on obsolete media or we do not have regular access to playback equipment, so we prefer to provide access through digital surrogates. d. our ability to digitize materials in-house: given our funding and staffing, we have prioritized the do-it- yourself digitization projects over ones requiring external equipment and expertise.”</p></blockquote>
+<blockquote><p>“Housing/space issues: can we in good conscience commit to preserving this collection?”</p></blockquote>
+<blockquote><p>“Access issues: do we have the equipment to digitize or make available the media being donated? If not, is there potential funding to outsource digitization?”</p></blockquote>
+<blockquote><p>“No matter how important the collection, it must be organized and described before it is ready for distribution: organized, processed, metadata assigned, finding aid created.”</p></blockquote>
+<blockquote><p>“Do the Libraries have the knowledge, or the capacity to develop, skills to accomplish the project alone and/or with a partner? Ample staff to bring the project to fruition or the ability to hire such staff.“</p></blockquote>
+<blockquote><p>“Broad priorities are roughly based on format, which in turn is based on existing collections strengths and in-house digitization technical capacity.”</p></blockquote>
+<blockquote><p>“Items/collections that come with their own (usually external grant) funding are prioritized over those that don’t.” </p></blockquote>
+<blockquote><p>“The criteria for choosing to proceed with including or digitizing a requested item/collection have to do with our infrastructure and capacity to do so rather than a philosophical reason to preserve or promote access to the materials.”</p></blockquote>
+ 
+<h4>Does an individual or committee make the final decision?</h4>
+ 
+<p><strong>Summary:</strong> A majority of respondents indicate that selection and digitization decisions are made by individuals, not by appointed committees. </p>
+ 
+<blockquote><p>“The matching of projects to capacity happens by the Director of all the curators and the AUL for Collections.”</p></blockquote>
+<blockquote><p>“A member or members of Special Collections and Archives (SCA) review the request. Typically whichever staff member is contacted first will bring in the other two full-time staff of SCA to discuss, but sometimes a single staff member will determine suitability of collection for accessioning.”</p></blockquote>
+<blockquote><p>“We moved from a committee who would review proposals from curators and assess based on certain criteria (preservation, scholarship, etc.) to being proactive.”</p></blockquote>
+<blockquote><p>“Requests are routed to the Assistant Deans for Distinctive Collections and Digital Initiatives & Discovery Services to determine feasibility.”</p></blockquote>
+ 
+<h4>Is the selection process based on any specific priorities?</h4>
+ 
+<p><strong>Summary:</strong> Selections are prioritized by appraised value, fragility or rarity of materials, and materials that are already part of the institution’s collections, and most institutions are not actively seeking new materials. Many collection agendas are dictated by Collection Development Policies that reflect physical collections and do not stand on their own as born-digital or digital only collection policies - the decision process for selection is either not documented more granularly than at the institution level, or we need to specify more granular selection practices.</p>
+ 
+<blockquote><p>“Selected content in collections we own that are in the public domain because of their uniqueness – won’t find them on Google, Hathi Trust, or anywhere else.”</p></blockquote>
+<blockquote><p>“Appraisal value – we have made it a policy to digitize all or portions of collections which have been appraised. Part of this is for security purposes and others is for access to the content itself.”</p></blockquote>
+<blockquote><p>“We have also made it a policy to scan fragile photographic content, such as glass plate negatives, since we prefer researchers not handle the originals.”</p></blockquote>
+<blockquote><p>“While we have a published Collection Development policy, we do not have written guidelines for how we select and accession collections.”</p></blockquote>
+ 
+<p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.  </p> 
+
+
 <h2><a href="https://script.google.com/macros/s/AKfycbzb46dewQa68M4AL4BQDmbPISOoNyic60AXDzyFbgexXGgYaKg/exec">Click here to take the survey</a></h2>
+
+
+
+
+
+
 <p>Add your perspective to this ongoing study. The more respondants, the better and more useful our toolkit will be! Thank you in advance.</p>
