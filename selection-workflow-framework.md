@@ -270,9 +270,10 @@ May/June 2017 DRAFT</h2>
 <p>Do we need a section where we get specific about the position titles of those making the recommendations and who is making the decisions? Or perhaps our sample is not big enough to do this effectively? </p>
 
 <h3>Analysis</h3>
-<h4>Institutions that identified the depositor (donor, curator, other) or mechanism for selection: </h4>
+
+<h4>Institutions that identified the depositor (donor, curator, other) or mechanism for selection:</h4>
  
-<p><strong>Summary:</strong> Selection and digitization submissions originate from a mix of donors or internal library staff, not by designated selection committees. </p>
+<p><strong>Summary:</strong> Selection and digitization submissions originate from a mix of donors or internal library staff, not by designated selection committees.</p>
  
 <blockquote><p>“We moved from a committee who would review proposals from curators and assess based on certain criteria (preservation, scholarship, etc.) to being proactive.”</p></blockquote>
 <blockquote><p>“We have a standing Digitization Prioritization Committee with membership from the digital libraries, the archives & special collections library, and collection development. The committee meets once a month to consider requests submitted by members of the university community, both inside and outside the libraries.”</p></blockquote>
@@ -363,10 +364,9 @@ May/June 2017 DRAFT</h2>
 <blockquote><p>“We have also made it a policy to scan fragile photographic content, such as glass plate negatives, since we prefer researchers not handle the originals.”</p></blockquote>
 <blockquote><p>“While we have a published Collection Development policy, we do not have written guidelines for how we select and accession collections.”</p></blockquote>
  
-<p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.  </p> 
+<p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.</p> 
 
-
-<h2><a href="ckquote> 
+ 
 <h4>Are decisions based on required resources (space, staff, format)?</h4>
 
 <p><strong>Summary:</strong> A majority of institutions prioritize decisions based on staff or space capacity, not on collecting priority. Most consider the institution’s collection strengths and importance of the materials prior to accepting new materials.</p>
