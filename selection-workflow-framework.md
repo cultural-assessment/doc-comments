@@ -414,11 +414,7 @@ May/June 2017 DRAFT</h2>
 <p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.  </p> 
 
 
-<h2><a href="https://goo.gl/McL2F8" target="_blank">Click here to take the survey</a></h2>
-
-
-
-
+<h2>Take the survey: https://goo.gl/McL2F8</h2>
 
 
 <p>Add your perspective to this ongoing study. The more respondants, the better and more useful our toolkit will be! Thank you in advance.</p>
