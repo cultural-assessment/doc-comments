@@ -5,6 +5,10 @@ February, 2017</h3>
 
 <p>This document represents the initial environmental scan surrounding cultural and procedural biases in cultural heritage institutions with a focus on the impact of said biases on digital collections.</p>
 
+<h4>Want to add or change this document?</h4>
+<p>See our <a href="https://github.com/cultural-assessment/doc-comments/blob/master/README.md">Instructions for Public Comment</a> for details on how to request changes to this or other docuemnts.</p>
+<p>We welcome your input.</p>
+
 <ol><h2>Table of Contents</h2>
 <li><a href="#collections-publicizing-and-discoverability">Collection Publicizing and Discoverability</a></li>
 <li><a href="#cultural-assessment">Cultural Assessment</a></li>
