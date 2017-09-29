@@ -363,7 +363,7 @@ May/June 2017 DRAFT</h2>
 <p><strong>Summary:</strong> A majority of respondents indicate that selection and digitization decisions are made by individuals, not by appointed committees. </p>
  
 <blockquote><p>“The matching of projects to capacity happens by the Director of all the curators and the AUL for Collections.”</p></blockquote>
-<blockquote><p>“A member or members of Special Collections and Archives (SCA) review the request. Typically whichever staff member is contacted first will bring in the other two full-time staff of SCA to discuss, but sometimes a single staff member will determine suitability of collection for accessioning.”</p></blockquote>
+ <blockquote><p>“A member or members of Special Collections and Archives (SCA) review the request. Typically whichever staff member is contacted first will bring in the other two full-time staff of SCA to discuss, but sometimes a single staff member will determine suitability of collection for accessioning.”</p></blockquote>
 <blockquote><p>“We moved from a committee who would review proposals from curators and assess based on certain criteria (preservation, scholarship, etc.) to being proactive.”</p></blockquote>
 <blockquote><p>“Requests are routed to the Assistant Deans for Distinctive Collections and Digital Initiatives & Discovery Services to determine feasibility.”</p></blockquote>
  
@@ -414,7 +414,7 @@ May/June 2017 DRAFT</h2>
 <p>Only one institution had published selection standards, see http://www.dartmouth.edu/~library/digital/about/policies/selection.html?mswitch-redir=classic.  </p> 
 
 
-<h2><a href="https://script.google.com/macros/s/AKfycbzb46dewQa68M4AL4BQDmbPISOoNyic60AXDzyFbgexXGgYaKg/exec">Click here to take the survey</a></h2>
+<h2><a href="https://goo.gl/McL2F8" target="_blank">Click here to take the survey</a></h2>
 
 
 
